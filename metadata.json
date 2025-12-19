@@ -1,0 +1,7 @@
+{
+  "name": "VaniAI - Civic Helpline",
+  "description": "Multilingual Voice-AI system for Vadodara Municipal Corporation. Automated complaint registration via voice in Gujarati, Hindi, and English.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
